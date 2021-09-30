@@ -1,14 +1,4 @@
-# fireblogs
-
-## Author
-
-<h4>
- <a href="https://github.com/nt-myduyen"> Mỹ Duyên </a> <br>
- <a href="https://github.com/hoangthien01"> Hoàng Thiện </a> <br>
- <a href="https://github.com/cyantiz"> Hoàng Nhân </a>  <br>
-<h4/>
-  
-Deploy: https://sleepy-poitras-15ffd2.netlify.app/
+# My blog
  
 ## Project setup
 ```
@@ -29,6 +19,8 @@ npm run build
 ```
 npm run lint
 ```
+
+### Clone vue-firebase-blog
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
